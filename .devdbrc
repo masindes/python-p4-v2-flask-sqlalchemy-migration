@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/Users/app/development/code/sep/phase-4/python-p4-v2-flask-sqlalchemy-migration/server/instance/app.db"
+  }
+]
